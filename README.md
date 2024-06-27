@@ -49,8 +49,8 @@ The application successfully processes the user's input text, generates a summar
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/ai-text-summarizer.git
-    cd ai-text-summarizer
+    git clone https://github.com/Hugs-4-Bugs/AI-Text-Summarizer-App.git
+    cd AI-Text-Summarizer-App
     ```
 
 2. **Install dependencies**
